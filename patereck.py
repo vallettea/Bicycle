@@ -25,9 +25,9 @@ top_tube_from_seat_tube = {49.5 : 51.5, 51.0 : 52.7, 52.0 : 53.8, 53.0 : 54.3, 5
 TT = top_tube_from_seat_tube[int(ST)]
 Stem = (TM+AM)/2.3 - TT
 
-print "D : %s" % str(D)
-print "ST : %s" % str(ST)
-print "TT : %s" % str(TT)
+print "Down Tube : %s" % str(D)
+print "Seat Tube : %s" % str(ST)
+print "Top Tube : %s" % str(TT)
 
 # check
 print "========== checks ==========="
