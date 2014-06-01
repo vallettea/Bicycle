@@ -13,14 +13,14 @@ It explains all the rules needed to match the size of your frame to the size of 
 To facilitate the process, I have written all the measures you need inside a little python script called `patereck.py` available in this repo:
 
 ```python
-# parameters to choose:
-# rider
+#### parameters to choose:
+##### rider
 A = 82 # inseam height
 cubit = 46 # from elbow to nails, hand opened
 TM = 67 # torso measurment
 AM = 66 # arm measurment
 
-# bike
+##### bike
 B = 27 # bottom braket height in cm
 C = 4 # crotch clearance (4cm for touting 6cm for racing)
 E = radians(73.2) # seat tube angle
@@ -56,4 +56,22 @@ The mitering is particularly usefull as if you take care of **printing these ima
 ![miter](img/miter.png "Mitering")
 
 
+## Building
 
+And now you're ready to do real stuff:
+
+{% include image.html url="img/photo1.JPG" description="The trace you draw with the mitering paper." %}
+{% include image.html url="img/photo2.JPG" description="Alignement is key here." %}
+{% include image.html url="img/photo3.JPG" description="Use the eyelets to align the front dropouts." %}
+{% include image.html url="img/photo16.JPG" description="My atelier." %}
+{% include image.html url="img/photo4.JPG" description="After brazing the fork." %}
+{% include image.html url="img/photo5.JPG" description="Don't forget to make holes where tubes will be brazed." %}
+{% include image.html url="img/photo6.JPG" description="If the mitering is well adjusted then the tubes fit perfectly." %}
+{% include image.html url="img/photo7.JPG" description="My marble is a thick glass." %}
+{% include image.html url="img/photo8.JPG" description="I built a vernier with a sheet of metal where I've welded a caliper upside down." %}
+{% include image.html url="img/photo9.JPG" description="Just point on the marble and weld afterwards." %}
+{% include image.html url="img/photo10.JPG" description="For the rear dropouts, I've built a jig using a metal bar and two big screws." %}
+{% include image.html url="img/photo11.JPG" description="A trick to adjust break bosses." %}
+{% include image.html url="img/photo12.JPG" description="Front." %}
+{% include image.html url="img/photo13.JPG" description="Rear. I've used a piece of copper because I had no more metal..." %}
+{% include image.html url="img/photo14.JPG" description="Starting to look like a bike." %}
