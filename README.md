@@ -60,18 +60,82 @@ The mitering is particularly usefull as if you take care of **printing these ima
 
 And now you're ready to do real stuff:
 
-{% include image.html url="img/photo1.JPG" description="The trace you draw with the mitering paper." %}
-{% include image.html url="img/photo2.JPG" description="Alignement is key here." %}
-{% include image.html url="img/photo3.JPG" description="Use the eyelets to align the front dropouts." %}
-{% include image.html url="img/photo16.JPG" description="My atelier." %}
-{% include image.html url="img/photo4.JPG" description="After brazing the fork." %}
-{% include image.html url="img/photo5.JPG" description="Don't forget to make holes where tubes will be brazed." %}
-{% include image.html url="img/photo6.JPG" description="If the mitering is well adjusted then the tubes fit perfectly." %}
-{% include image.html url="img/photo7.JPG" description="My marble is a thick glass." %}
-{% include image.html url="img/photo8.JPG" description="I built a vernier with a sheet of metal where I've welded a caliper upside down." %}
-{% include image.html url="img/photo9.JPG" description="Just point on the marble and weld afterwards." %}
-{% include image.html url="img/photo10.JPG" description="For the rear dropouts, I've built a jig using a metal bar and two big screws." %}
-{% include image.html url="img/photo11.JPG" description="A trick to adjust break bosses." %}
-{% include image.html url="img/photo12.JPG" description="Front." %}
-{% include image.html url="img/photo13.JPG" description="Rear. I've used a piece of copper because I had no more metal..." %}
-{% include image.html url="img/photo14.JPG" description="Starting to look like a bike." %}
+<table class="image">
+<caption align="bottom">The trace you draw with the mitering paper.</caption>
+<tr><td><img src="img/photo1.JPG" alt="The trace you draw with the mitering paper."/></td></tr>
+</table>
+
+<table class="image">
+<caption align="bottom">Alignement is key here.</caption>
+<tr><td><img src="img/photo2.JPG" alt="Alignement is key here."/></td></tr>
+</table>
+
+<table class="image">
+<caption align="bottom">Use the eyelets to align the front dropouts.</caption>
+<tr><td><img src="img/photo3.JPG" alt="Use the eyelets to align the front dropouts."/></td></tr>
+</table>
+
+<table class="image">
+<caption align="bottom">Fire!</caption>
+<tr><td><img src="img/photo16.JPG" alt="Fire!"/></td></tr>
+</table>
+
+<table class="image">
+<caption align="bottom">After brazing the fork.</caption>
+<tr><td><img src="img/photo4.JPG" alt="After brazing the fork."/></td></tr>
+</table>
+
+<table class="image">
+<caption align="bottom">Don't forget to make holes where tubes will be brazed.</caption>
+<tr><td><img src="img/photo5.JPG" alt="Don't forget to make holes where tubes will be brazed."/></td></tr>
+</table>
+
+<table class="image">
+<caption align="bottom">If the mitering is well adjusted then the tubes fit perfectly.</caption>
+<tr><td><img src="img/photo6.JPG" alt="If the mitering is well adjusted then the tubes fit perfectly."/></td></tr>
+</table>
+
+<table class="image">
+<caption align="bottom">My marble is a thick glass.</caption>
+<tr><td><img src="img/photo7.JPG" alt="My marble is a thick glass."/></td></tr>
+</table>
+
+<table class="image">
+<caption align="bottom">I built a vernier with a sheet of metal where I've welded a caliper upside down.</caption>
+<tr><td><img src="img/photo8.JPG" alt="I built a vernier with a sheet of metal where I've welded a caliper upside down."/></td></tr>
+</table>
+
+<table class="image">
+<caption align="bottom">Just point on the marble and weld afterwards.</caption>
+<tr><td><img src="img/photo9.JPG" alt="Just point on the marble and weld afterwards."/></td></tr>
+</table>
+
+<table class="image">
+<caption align="bottom">For the rear dropouts, I've built a jig using a metal bar and two big screws.</caption>
+<tr><td><img src="img/photo10.JPG" alt="For the rear dropouts, I've built a jig using a metal bar and two big screws."/></td></tr>
+</table>
+
+<table class="image">
+<caption align="bottom">A trick to adjust break bosses.</caption>
+<tr><td><img src="img/photo11.JPG" alt="A trick to adjust break bosses."/></td></tr>
+</table>
+
+<table class="image">
+<caption align="bottom">Front</caption>
+<tr><td><img src="img/photo12.JPG" alt="Front"/></td></tr>
+</table>
+
+<table class="image">
+<caption align="bottom">Rear. I've used a piece of copper because I had no more metal...</caption>
+<tr><td><img src="img/photo13.JPG" alt="Rear. I've used a piece of copper because I had no more metal..."/></td></tr>
+</table>
+
+<table class="image">
+<caption align="bottom">Starting to look like a bike.</caption>
+<tr><td><img src="img/photo14.JPG" alt="Starting to look like a bike."/></td></tr>
+</table>
+
+<table class="image">
+<caption align="bottom">With fender and lights.</caption>
+<tr><td><img src="img/photo15.JPG" alt="With fender and lights."/></td></tr>
+</table>
